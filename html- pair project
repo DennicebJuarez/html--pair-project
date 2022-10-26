@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>  
+	<head>    
+		<meta charset="utf-8">    
+		<title>Hello!</title>    
+<!-- <link> (CSS) goes here -->  
+</head>  
+<body>    
+<!-- Content (more html) goes here -->    
+<h1>Welcome</h1>    
+<div>Here's some unstyled content!</div>  
+	</body>
+</html>
